@@ -1,6 +1,6 @@
 {
-  "name": "SHuttle - A Pushbullet CLI for the Bash Shell",
-  "tagline": "Send notes, files, links, and more from your command line to other devices",
-  "body": "### SHuttle - A Pushbullet CLI for the Bash Shell\r\n\r\nThis page is a work in progress. For more information in the meantime, see [Shuttle on GitHub](https://github.com/andyforceno/shuttle).\r\n\r\n### Installation\r\ngit clone https://github.com/andyforceno/shuttle/<br>\r\ncd to shuttle/<br>\r\nchmod +x shuttle<br>\r\n./shuttle<br>\r\n\r\n\r\n",
+  "name": " You have successfully authorized SHuttle with Pushbullet!",
+  "tagline": "",
+  "body": "### You're almost done!   \r\nCopy the access token in the URL (everything after \"access_token=\") and paste it into your terminal\r\n\r\n\r\nYou may close this browser window\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
