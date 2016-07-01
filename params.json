@@ -1,5 +1,5 @@
 {
-  "name": " You have successfully authorized SHuttle with Pushbullet!",
+  "name": " You have granted Shuttle access to your Pushbullet data",
   "tagline": "",
   "body": "### You're almost done!   \r\nCopy the access token in the URL (everything after \"access_token=\") and paste it into your terminal\r\n\r\n\r\nYou may close this browser window\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
